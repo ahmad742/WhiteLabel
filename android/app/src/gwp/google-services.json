@@ -1,0 +1,277 @@
+{
+  "project_info": {
+    "project_number": "122607153548",
+    "project_id": "it-s-happening-sa",
+    "storage_bucket": "it-s-happening-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122607153548:android:1efe2bc2913618591466a9",
+        "android_client_info": {
+          "package_name": "com.GWP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvhfkZbBivTjM3iiUwRScehONd-x8JjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122607153548-88totsi3tmamijbv769q52n3khek0k6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IHA",
+                "app_store_id": "1597458374"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122607153548:android:5a3ef6cf0f9c84d81466a9",
+        "android_client_info": {
+          "package_name": "com.IHA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122607153548-jbolq10aii4h2jvu0ksb4uu9sl1k9r58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.IHA",
+            "certificate_hash": "a6ad6bc0624f0c9ef87aef440557798b9b4aeb00"
+          }
+        },
+        {
+          "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvhfkZbBivTjM3iiUwRScehONd-x8JjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122607153548-88totsi3tmamijbv769q52n3khek0k6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IHA",
+                "app_store_id": "1597458374"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122607153548:android:1c858a9b1c096ba21466a9",
+        "android_client_info": {
+          "package_name": "com.ctwaterpolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvhfkZbBivTjM3iiUwRScehONd-x8JjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122607153548-88totsi3tmamijbv769q52n3khek0k6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IHA",
+                "app_store_id": "1597458374"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122607153548:android:121f76a7ed605d1b1466a9",
+        "android_client_info": {
+          "package_name": "com.iha.hockeyjunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvhfkZbBivTjM3iiUwRScehONd-x8JjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122607153548-88totsi3tmamijbv769q52n3khek0k6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IHA",
+                "app_store_id": "1597458374"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122607153548:android:d7369d32a109f9411466a9",
+        "android_client_info": {
+          "package_name": "com.iha.ppl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvhfkZbBivTjM3iiUwRScehONd-x8JjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122607153548-88totsi3tmamijbv769q52n3khek0k6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IHA",
+                "app_store_id": "1597458374"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122607153548:android:a87aee3d4c63e6f91466a9",
+        "android_client_info": {
+          "package_name": "com.iha.spc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvhfkZbBivTjM3iiUwRScehONd-x8JjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122607153548-88totsi3tmamijbv769q52n3khek0k6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IHA",
+                "app_store_id": "1597458374"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122607153548:android:bc6fead1b5042a141466a9",
+        "android_client_info": {
+          "package_name": "com.iha.waterpolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvhfkZbBivTjM3iiUwRScehONd-x8JjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122607153548-kgqhl5f7u2e2204amihuncebe9gqmjuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122607153548-88totsi3tmamijbv769q52n3khek0k6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IHA",
+                "app_store_id": "1597458374"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
